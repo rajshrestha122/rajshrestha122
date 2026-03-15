@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajshrestha122
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 view my portfolio to connect with me
 
 <!---
 rajshrestha122/rajshrestha122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
