@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 view my portfolio to connect with me
+- 📫 How to connect me.... razzmonster122@gmail.com
 
 <!---
 rajshrestha122/rajshrestha122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
